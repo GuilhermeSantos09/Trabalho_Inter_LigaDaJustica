@@ -1,0 +1,2 @@
+rootProject.name='Liga_Herois'
+include ':app'

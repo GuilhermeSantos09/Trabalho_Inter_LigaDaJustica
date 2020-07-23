@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Heróis da Liga da Justiça</string>
+    <string name="bt_batman">Batman</string>
+    <string name="bt_superman">Superman</string>
+    <string name="bt_mulher_maravilha">Mulher-Maravilha</string>
+    <string name="bt_aquaman">Aquaman</string>
+    <string name="bt_intent">Sobre mais heróis</string>
+    <string name="txt_superman">Nome: Clark Kent\n\nCodinome: Superman\n\nEspécie: Kryptoniano\n\nHabilidades: Invulnerabilidade, Voo, Super Força\n\nVulnerabilidades: Kryptonita, Sol vermelho\n\nEquipamento: Óculos\n\n- Descrição: Um óculos com lentes de krypto que ajuda no disfarce</string>
+    <string name="txt_batman">Nome: Bruce Wayne
+\n\nCodinome: Batman
+\n\nEspécie: Humano
+\n\nHabilidades: Investigação, Inteligência, Lutador
+\n\nVulnerabilidades: Trauma, ser um humano
+\n\nEquipamento: Cinto de utlidades\n\n- Descrição: O cinto de utilidades contém ampla gama de dispositivos</string>
+    <string name="txt_mulher_maravilha">Nome: Diana Prince
+\n\nCodinome: Mulher-Maravilha
+\n\nEspécie: Amazona
+\n\nHabilidades: Lutadora, Resistência, armas perfurantes
+\n\nVulnerabilidades: Ser amarrada por um homem
+\n\nEquipamento: "Laço da verdade\n\n- Descrição: Laço mágico para lutas e interrogatório</string>
+    <string name="txt_aquaman">Nome: Arthur Curry
+\n\nCodinome: Aquaman
+\n\nEspécie: Atlante e Humano
+\n\nHabilidades: Comunicação com animais marinhos, Controla o mar
+\n\nVulnerabilidades: Ficar 1 hora longe da água
+\n\nEquipamento: Tridente de Netuno\n\n- Descrição: Tridente mágico de Netuno</string>
+</resources>
